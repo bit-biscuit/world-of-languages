@@ -9,3 +9,8 @@
 -[CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 -[JavaScript](https://www.javascript.com/)
 -[MarkDown](https://www.markdownguide.org/)
+-[Scala](https://www.scala-lang.org/)
+-[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+-[Dart](https://dart.dev/)
+-[BASIC](https://smallbasic-publicwebsite.azurewebsites.net/)
+-[COBOL](https://www.cobol-it.com/)
